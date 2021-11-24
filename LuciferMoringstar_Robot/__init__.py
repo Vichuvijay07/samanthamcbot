@@ -28,7 +28,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Samanatha Auto Filter V3
     
 ➥ Creator : [Empire]
 
