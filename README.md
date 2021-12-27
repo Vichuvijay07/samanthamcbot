@@ -22,6 +22,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vichuvijay07/samanthamcbot)
 
+####Deploy To Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FVichuvijay07%2Fsamanthamcbot&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CUPDATE_CHANNEL&referralCode=MoTech)
+
 #### Hard Way
 ```bash
 # Create virtual environment
